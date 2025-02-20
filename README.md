@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @OderoKen254
-- 👀 I’m interested in database management, python coding and machine learning
-- 🌱 I’m currently learning SQL and Python
-- 💞️ I’m looking to collaborate on data engineering concepts
+- 👀 Let's talk about web, app dev, database management to scale tech to higher levels
+- 🌱 I’m currently improving on my full-stack development skills 
+- 💞️ I’m looking to collaborate on software engineering concepts
 
 <!---
 OderoKen254/OderoKen254 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
