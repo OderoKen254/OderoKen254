@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @OderoKen254
+- 👋 Hi, I’m @O.Kennedy
 - 👀 Let's talk about web, app dev, database management to scale tech to higher levels
 - 🌱 I’m currently improving on my full-stack development skills 
 - 💞️ I’m looking to collaborate on software engineering concepts
